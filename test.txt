@@ -1,4 +1,2 @@
-This is a test file
-branch2 make some changes
-add new line from main
-33-6-2025 from branch2
+This is a test file in the main branch
+add more text
